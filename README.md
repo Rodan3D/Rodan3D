@@ -33,7 +33,7 @@
   
 ### :man_technologist: О себе :
 
-Я будущий разработчик на Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я будущий разработчик на Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России :ru:.
 
 - :telescope: Я учусь писать на Python.
 
