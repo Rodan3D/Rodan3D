@@ -62,3 +62,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
+
+---
+
+<div align="left">
+  
+### :fire: Моя статистика :
+</div> 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodan3D&theme=dark&background=000000)](https://git.io/streak-stats)
