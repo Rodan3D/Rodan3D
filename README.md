@@ -70,4 +70,12 @@
 ### :fire: Моя статистика :
 </div> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodan3D&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="left">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rodan3D&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodan3D&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> 
+
+---
