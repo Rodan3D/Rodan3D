@@ -31,7 +31,7 @@
 
 <div align="left">
   
-### :man_technologist: О себе :
+### :man_technologist: О себе 
 
 Я будущий разработчик на Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России :ru:.
 
@@ -39,14 +39,14 @@
 
 - :zap: В свободное время я решаю задачки на CodeWars и читаю технические статьи
 
-- :mailbox:Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Rodan3D)
+- :speech_balloon: Связь со мной [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Rodan3D)
 </div> 
 
   ---
   
 <div align="left">
   
-### :hammer_and_wrench: Языки и технологии :
+### :hammer_and_wrench: Языки и технологии 
 
 </div> 
 
@@ -67,7 +67,7 @@
 
 <div align="left">
   
-### :fire: Моя статистика :
+### :fire: Моя статистика
 </div> 
 
 <div align="left">
